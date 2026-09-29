@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="340" viewBox="0 0 340 340">
+  <defs>
+    <path id="d" d="M50 22C43 15 34 12 26 14C15 17 11 28 13 39C15 49 20 56 22 66C24 77 26 90 34 90C41 90 42 79 44 71C45 66 47 63 50 63C53 63 55 66 56 71C58 79 59 90 66 90C74 90 76 77 78 66C80 56 85 49 87 39C89 28 85 17 74 14C66 12 57 15 50 22Z"/>
+    <path id="b" d="M50 6C53 34 66 47 94 50C66 53 53 66 50 94C47 66 34 53 6 50C34 47 47 34 50 6Z"/>
+  </defs>
+  <g fill="none" stroke="#6A2F7C" stroke-opacity=".13" stroke-width="7" stroke-linejoin="round">
+    <use href="#d" transform="translate(26 22) scale(.34) rotate(-16 50 50)"/>
+    <use href="#d" transform="translate(124 138) scale(.3) rotate(12 50 50)"/>
+    <use href="#d" transform="translate(222 250) scale(.32) rotate(-8 50 50)"/>
+  </g>
+  <g fill="#6A2F7C" fill-opacity=".1">
+    <use href="#b" transform="translate(214 40) scale(.22) rotate(12 50 50)"/>
+    <use href="#b" transform="translate(276 176) scale(.15)"/>
+    <use href="#b" transform="translate(48 236) scale(.2) rotate(-10 50 50)"/>
+  </g>
+</svg>
